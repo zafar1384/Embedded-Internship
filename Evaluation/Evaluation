@@ -1,1 +1,1 @@
-
+instead of returning value return the pointer then you get the full access to the vaible read and write
